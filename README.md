@@ -5,7 +5,7 @@
 - 📫 How to reach me kip_bryce @Twitter
 - ### Hi there,  it's Bryce here, welcome to my world 👋
 <div id="header" align="center">
-<img src = 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwoz-u.com%2Fblog%2Fthe-evolution-of-coding-what-programming-languages-are-prominent-today%2F&psig=AOvVaw3ulxhFvk5fqLzpo6WMzoX8&ust=1681498601735000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJDpxJbEp_4CFQAAAAAdAAAAABAE' width= "500" height = "250"/>
+<img src ="/9bc031ded28a4eccb4a3f1df621ff84d.png" width= "500" height = "250"/>
 </div>
   
   ---
