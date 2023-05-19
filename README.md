@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brycekip46
+- 👋 Hi, I’m Bryson
 - 👀 I’m interested in java, data analysis projects and kotlin projects
 - 🌱 I’m currently learning Software engineering
 - 💞️ I’m looking to collaborate on starter projects
