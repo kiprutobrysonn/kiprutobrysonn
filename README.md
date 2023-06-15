@@ -49,7 +49,7 @@
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 </p>
 
-<!-- ![Visitor Badge](https://komarev.com/ghpvc/?username=Tr-reny&color=green)
+![Visitor Badge](https://komarev.com/ghpvc/?username=Tr-reny&color=green)
 ### Languages and Tools -->
 
 <!-- <img align="left" src="https://simpleicons.org/icons/laravel.svg" alt="Laravel" height="40px" />
@@ -59,20 +59,23 @@
 <img align="left" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="VSCode" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/django" alt="JetBrains Tools" height="40px" />
 <br /> -->
-
-  ---
-
+ ---
 
  ### Socials
                   
                   
- <p align="left">
-                          
+ <p align="left">                         
                          
 <a href="https://www.linkedin.com/in/bryson-kipruto/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.twitter.com/bryson-kipruto" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
+<br>
+<br/>
+
   ---
+
+ [![wakatime](https://wakatime.com/badge/user/556a631a-a3ff-42ad-b38c-c4778b0d6225.svg)](https://wakatime.com/@f7f8b4d6-fa40-4657-a38a-21d8fffa2dbc)
+
 <br>
 <div align="center">
   <h2> <strong> 🏆 My Github Stats </strong> <img src="./assets/borderseparator.gif"/></h2><br>
