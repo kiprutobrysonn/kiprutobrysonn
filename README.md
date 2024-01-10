@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/bryson-kipruto/">
   <img align="left" alt="Bryson's LInkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/brycekip46">
+<a href="https://github.com/kiprutobrysonn">
   <img align="left" alt="bryon's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a >
@@ -79,20 +79,20 @@
 <br>
 <div align="center">
   <h2> <strong> 🏆 My Github Stats </strong> <img src="./assets/borderseparator.gif"/></h2><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=brycekip46&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
-  <img src="https://streak-stats.demolab.com?user=brycekip46&theme=radical" height="150" alt="streaks graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=brycekip46&theme=radical&show_icons=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kiprutobrysonn&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
+  <img src="https://streak-stats.demolab.com?user=kiprutobrysonn&theme=radical" height="150" alt="streaks graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kiprutobrysonn&theme=radical&show_icons=true&count_private=true" height="150" alt="stats graph" />
 </div> <br>
 
-![Bryson's  Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=brycekip46&custom_title=Bryson's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true)
+![Bryson's  Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=kiprutobrysonn&custom_title=Bryson's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true)
 
 
 
 
-![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brycekip46&theme=github_dark) 
+![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kiprutobrysonn&theme=github_dark) 
 
 
-<a href="https://github.com/brycekip46" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brycekip46&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/kiprutobrysonn" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiprutobrysonn&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!---
 brycekip46/brycekip46 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
